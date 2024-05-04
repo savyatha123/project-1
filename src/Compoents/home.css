@@ -1,0 +1,46 @@
+.home{
+    background-color: aquamarine;
+    height: 100vh;
+   
+}
+.Home {
+    font-size: 40px;
+    color: blueviolet;
+    
+    text-align: center;
+   
+}
+.Nav {
+    width: 100%;
+    display: flex;
+    margin-top: 12.5%;
+    justify-content: center;
+    align-items: center;
+    gap:5px;
+
+}
+.Nav > ul{
+    width: 90%;
+    display: flex;
+   flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    gap:2rem;
+
+
+    
+}
+.Nav > ul > li {
+    width: 90%;
+    display: flex;
+    flex-direction: column; 
+     justify-content: center;
+     align-items: center;
+     gap:2rem;
+
+}
+.Cat {
+    color: aquamarine;
+
+}
+
